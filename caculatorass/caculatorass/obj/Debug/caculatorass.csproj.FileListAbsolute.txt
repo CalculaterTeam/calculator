@@ -1,0 +1,11 @@
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\bin\Debug\caculatorass.exe.config
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\bin\Debug\caculatorass.exe
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\bin\Debug\caculatorass.pdb
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.csproj.AssemblyReference.cache
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.Form1.resources
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.Properties.Resources.resources
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.csproj.GenerateResource.cache
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.csproj.CoreCompileInputs.cache
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.exe
+C:\Users\Tk custom\Desktop\assignmentc#\caculatorass\caculatorass\obj\Debug\caculatorass.pdb
